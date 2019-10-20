@@ -9,12 +9,6 @@ import javafx.stage.Stage;
 
 import java.util.Scanner;
 
-/**
- * The class that starts the program.  The class simply creates a window and displays it given
- * a filename submitted from the command line.
- *
- * @author archam
- */
 
 public class Main extends Application {
 
